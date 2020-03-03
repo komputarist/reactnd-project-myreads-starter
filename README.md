@@ -90,3 +90,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
+
+## Credits
+
+I got help from a tutorial made by James Priest here since I am still new to react https://james-priest.github.io/reactnd-project-myreads/
+So I added Localization to the Logic because I am familiar with the concept.
+
+Thanks to formatjs the authors of react-intl
